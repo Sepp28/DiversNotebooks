@@ -1,4 +1,4 @@
-# DiversNotebooks
+# Various Notebooks
 A collection of different, experimental notebooks about various topics.
 
 ## 1. Energy
