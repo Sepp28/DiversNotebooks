@@ -16,7 +16,7 @@ A collection of different, experimental notebooks about various topics.
                 alt="Link to ..." width="256" height="256" border="10" /></a></th>
   </tr>
   <tr>
-    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/Flexible_Power_Tariffs_01.ipynb" 
+    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/BundesAPI_01.ipynb" 
                 target="_blank"><img src="./images/ElectricityPrices_01.png" 
                 alt="Link to ..." width="256" height="256" border="10" /></a></th>
   </tr>
