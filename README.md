@@ -1,6 +1,5 @@
 # Various Notebooks
-A collection of different, experimental notebooks about various topics.
-
+This is a collection of experimental notebooks. They show how amazing evaluations are possible with the help of sensors that are already available or can be obtained cheaply. The application of standard algorithms up to methods from the field of machine learning, in combination with appropriate libraries enable fast results.
 ## 1. Energy
 
 <table>
@@ -8,10 +7,10 @@ A collection of different, experimental notebooks about various topics.
     <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/ShellyPlugDataCollector.ipynb" 
                 target="_blank"><img src="./images/DataAcquisition_02.png" 
                 alt="Link to notebook ShellyPlugDataCollector.ipynb" width="256" height="256" border="10" /></a></th>
-    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/Flexible_Power_Tariffs_01.ipynb" 
+    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/Merge_csv_Files_and_Display.ipynb" 
                 target="_blank"><img src="./images/DataAnalysis_02.png" 
                 alt="Link to ..." width="256" height="256" border="10" /></a></th>
-    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/Flexible_Power_Tariffs_01.ipynb" 
+    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/UnderConstruction_01.ipynb" 
                 target="_blank"><img src="./images/ControlUnit_01.png" 
                 alt="Link to ..." width="256" height="256" border="10" /></a></th>
   </tr>
