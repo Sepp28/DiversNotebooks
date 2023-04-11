@@ -1,5 +1,6 @@
 # Various Notebooks
-This is a collection of experimental notebooks. They show how amazing evaluations are possible with the help of sensors that are already available or can be obtained cheaply. The application of standard algorithms up to methods from the field of machine learning, in combination with appropriate libraries enable fast results.
+This is my collection of experimental notebooks. Multiple methods of data analysis are tried out. They range from simple standard algorithms to methods from the field of machine learning. There are many libraries that provide implementations of these methods. Some of them are tested in the notebooks. The data is collected by sensors I already have in use.
+I want to show how amazing analysis and insights are possible by taking a closer look at the data. As inexpensive sensors become more widely available, the potential and usefulness of analyzing their data will greatly increase.
 ## 1. Energy
 
 <table>
