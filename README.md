@@ -22,7 +22,17 @@ I want to show how amazing analysis and insights are possible by taking a closer
   </tr>
 </table>
 
-## 2. Sports
+## 2. Photogrammetry
+
+<table>
+  <tr>
+    <th><a href="https://github.com/Sepp28/DiversNotebooks/blob/main/Object_Detection_and_Localization.ipynb" 
+                target="_blank"><img src="./images/DetectionLocalization_01.png" 
+                alt="Link to notebook Object Recognition and Localization" width="256" height="256" border="10" /></a></th>
+  </tr>
+</table>
+
+## 3. Sports
 
 <table>
   <tr>
